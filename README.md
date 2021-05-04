@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hendrix.
-- 👀 My skills: HTML5, CSS3, JS, GIT & Figma. 
+- 👀 My skills: HTML5, CSS3, JS, Xd & Figma. 
 - 🌱 I’m currently learning Python.
 - 🤝 I’m looking to collaborate and learn in your company.
 - 📫 To contact: hendrixgarcia.dev@gmail.com
