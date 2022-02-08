@@ -1,7 +1,8 @@
 ## Olá, eu sou Hendrix Garcia!
 
-- Sou programador Front-End. 
-- Atualmente trabalho com JavaScript, React JS / Native & estou estudando TypeScript.
+👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (4º sem.) <br>
+💻 Atualmente trabalho no Front-End com JavaScript, React JS e mobile com React Native.<br>
+📚 Também estudando: NodeJS e TypeScript em busca do Fullstack. 🚀
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hendrixgarcia/">
@@ -25,7 +26,7 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/hendrixgarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hendrixgarcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hendrixgarcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 <!---
 hd-rx8/hd-rx8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
