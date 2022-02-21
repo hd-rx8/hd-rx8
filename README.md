@@ -2,7 +2,7 @@
 
 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (4º sem.) <br>
 💻 Atualmente trabalho no Front-End com JavaScript, React JS e mobile com React Native.<br>
-📚 Também estudando: NodeJS e um pouco de TypeScript em busca do Fullstack. 🚀
+📚 Também tenho interesse em: NodeJS e TypeScript. 🚀
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hendrixgarcia/">
