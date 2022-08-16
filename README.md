@@ -1,7 +1,7 @@
 ## Olá, eu sou Hendrix Garcia!
 
-👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (4º sem.) <br>
-💻 Atualmente trabalho no Front-End com JavaScript, React JS e mobile com React Native.<br>
+👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
+💻 Atualmente trabalho com JavaScript, React Js && Native.<br>
 📚 Também tenho interesse em: PHP e NodeJs. 🚀
 
 <div align="center">
@@ -16,7 +16,7 @@
   <img align="center" alt="hdrx-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="hdrx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hdrx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="hdrx-Sass" height="30" width="40" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
+  <img align="center" alt="hdrx-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="hdrx-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="hdrx-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="right" alt="Pc-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
