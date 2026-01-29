@@ -21,7 +21,7 @@
 <img align="center" alt="Prisma" height="32" width="42"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 
-<br><br>
+<br>
 
 ### 🛠️ Front
 <img align="center" alt="JavaScript" height="32" width="42"
@@ -33,7 +33,7 @@
 <img align="center" alt="CSS3" height="32" width="42"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<br><br>
+<br>
 
 ### 🛠️ Outros
 <img align="center" alt="WordPress" height="32" width="42"
