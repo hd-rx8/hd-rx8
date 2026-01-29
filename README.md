@@ -24,7 +24,8 @@
 <br><br>
 
 ### 🛠️ Front
-<!-- Front -->
+<img align="center" alt="JavaScript" height="32" width="42"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="React" height="32" width="42"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="HTML5" height="32" width="42"
@@ -35,7 +36,8 @@
 <br><br>
 
 ### 🛠️ Outros
-<!-- Outros -->
+<img align="center" alt="WordPress" height="32" width="42"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 <img align="center" alt="PHP" height="32" width="42"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="Git" height="32" width="42"
