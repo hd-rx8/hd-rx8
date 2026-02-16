@@ -1,70 +1,72 @@
-## Olá, eu sou Hendrix Garcia 👋
+<h1 align="center">Olá, eu sou Hendrix Garcia 👋</h1>
 
-💻 Desenvolvedor Full Stack com foco em **Backend e Web Apps escaláveis**  
-🚀 Atuo com **Node.js, TypeScript e PostgreSQL**, entregando soluções robustas do zero à produção  
-🧠 Background forte em **produto, marketing digital e negócios**, o que melhora decisões técnicas  
+<p align="center">
+💻 Desenvolvedor Full Stack com foco em <strong>Backend e Web Apps escaláveis</strong><br>
+🚀 Atuo com <strong>Node.js, TypeScript e PostgreSQL</strong>, entregando soluções robustas do zero à produção<br>
+🧠 Background forte em <strong>produto, marketing digital e negócios</strong>, o que melhora decisões técnicas<br>
 🏗️ Experiência com arquitetura, APIs, autenticação, dashboards e automações
+</p>
 
----
+###
 
-### 🛠️ Stack principal
-
-<div style="display: inline_block"><br>
-
-<!-- Core -->
-<img align="center" alt="Node.js" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="TypeScript" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="PostgreSQL" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Prisma" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-
-<br>
-
-### 🛠️ Front
-<img align="center" alt="JavaScript" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="React" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="HTML5" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<br>
-
-### 🛠️ Outros
-<img align="center" alt="WordPress" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-<img align="center" alt="PHP" height="32" width="42"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="Git" height="32" width="42"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-</div>
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">🛠️ Stack Principal</h3>
 
 <div align="center">
-  <img height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=hd-rx8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hd-rx8&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
----
+###
 
-### 🔗 Contato
+<h3 align="center">🔗 Contato</h3>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/hendrixgarcia/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:hendrixgarcia.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hd-rx8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hd-rx8&layout=compact&langs_count=6&theme=tokyonight" height="160" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hd-rx8&locale=pt_BR&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hd-rx8/hd-rx8/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hd-rx8/hd-rx8/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hd-rx8/hd-rx8/output/github-contribution-grid-snake.svg">
+</picture>
