@@ -96,5 +96,5 @@
 <text x="510" y="677" class=""><tspan class="key">Email</tspan><tspan class="muted"> ....... </tspan><tspan class="value">hendrixgarcia.dev@gmail.com</tspan></text>
 <text x="510" y="713" class="">- GitHub Stats</text>
 <text x="510" y="739" class=""><tspan class="key">Repos</tspan>: <tspan class="value" id="repos">38</tspan>   <tspan class="key">Stars</tspan>: <tspan class="value" id="stars">0</tspan>   <tspan class="key">Followers</tspan>: <tspan class="value" id="followers">6</tspan></text>
-<text x="510" y="762" class=""><tspan class="key">Commits (12m)</tspan>: <tspan class="value" id="commits">—</tspan>   <tspan class="key">Contributions (12m)</tspan>: <tspan class="value" id="contributions">—</tspan></text>
+<text x="510" y="762" class=""><tspan class="key">Commits (12m)</tspan>: <tspan class="value" id="commits">290</tspan>   <tspan class="key">Contributions (12m)</tspan>: <tspan class="value" id="contributions">302</tspan></text>
 </g></svg>
