@@ -1,0 +1,36 @@
+name: Update profile stats
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 9 * * *'
+  push:
+    branches: [main]
+    paths: [profile.json, build.py, update_stats.py, portrait-dark.txt, portrait-light.txt, .github/workflows/update-readme.yml]
+permissions:
+  contents: write
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch public profile statistics
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python update_stats.py
+      - name: Render both themes
+        run: python build.py
+      - name: Save updated cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dark_mode.svg light_mode.svg stats.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update GitHub profile stats'
+            git push
+          fi

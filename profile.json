@@ -1,0 +1,14 @@
+{
+  "name": "Hendrix Garcia", "username": "hd-rx8", "handle": "hendrix@github",
+  "about": [["OS", "Linux / Windows"], ["Experience", "10+ years"], ["Role", "Product Engineer"], ["Focus", "Full-Stack / Web"]],
+  "sections": [
+    ["Languages.Programming", ["JavaScript, TypeScript, PHP", "HTML, CSS, SQL, Python"]],
+    ["Frameworks", ["React, Next.js, Node.js, Laravel, NestJS"]],
+    ["CMS / Commerce", ["WordPress, WooCommerce"]],
+    ["Infrastructure", ["Docker, Linux, Supabase", "PostgreSQL, MySQL, Cloudflare"]],
+    ["Automation", ["n8n, Make, REST APIs"]],
+    ["Design", ["Figma, UI/UX, Web Design"]],
+    ["Interests", ["AI, SaaS, Automation, Cybersecurity, Homelab"]]
+  ],
+  "contacts": [["Website", "conexhub.com.br"], ["LinkedIn", "/in/hendrixgarcia"], ["Email", "hendrixgarcia.dev@gmail.com"]]
+}
