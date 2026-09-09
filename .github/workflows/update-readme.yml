@@ -19,9 +19,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Fetch public profile statistics
+      - name: Fetch profile statistics
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
         run: python update_stats.py
       - name: Render both themes
         run: python build.py

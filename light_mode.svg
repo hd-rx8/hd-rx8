@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
 <title id="title">Hendrix Garcia — GitHub</title>
-<desc id="desc">Retrato de Hendrix em ASCII à esquerda e informações profissionais à direita.</desc>
+<desc id="desc">Retrato de Hendrix em ASCII à esquerda e informações profissionais à direita em estilo terminal.</desc>
 <style>text{font-family:Consolas,"Liberation Mono",monospace;white-space:pre}.key{fill:#953800}.value{fill:#0550ae}.muted{fill:#6e7781}</style>
 <rect width="1200" height="800" rx="15" fill="#f6f8fa"/>
 <text class="ascii" x="22" y="76" font-size="9" textLength="453.6" lengthAdjust="spacingAndGlyphs" fill="#24292f" xml:space="preserve">                                                                                    </text>
@@ -70,31 +70,25 @@
 <g font-size="15" fill="#24292f">
 <text x="510" y="34" class="">hendrix@github</text>
 <path d="M510 47 H1174" stroke="#6e7781" stroke-dasharray="6 4"/>
-<text x="510" y="72" class=""><tspan class="key">OS</tspan><tspan class="muted"> ................. </tspan><tspan class="value">Linux / Windows</tspan></text>
-<text x="510" y="94" class=""><tspan class="key">Experience</tspan><tspan class="muted"> ......... </tspan><tspan class="value">10+ years</tspan></text>
-<text x="510" y="116" class=""><tspan class="key">Role</tspan><tspan class="muted"> ............... </tspan><tspan class="value">Product Engineer</tspan></text>
-<text x="510" y="138" class=""><tspan class="key">Focus</tspan><tspan class="muted"> .............. </tspan><tspan class="value">Full-Stack / Web</tspan></text>
-<text x="510" y="172" class="key">Languages.Programming</text>
-<text x="510" y="195" class="value">JavaScript, TypeScript, PHP</text>
-<text x="510" y="216" class="value">HTML, CSS, SQL, Python</text>
-<text x="510" y="249" class="key">Frameworks</text>
-<text x="510" y="272" class="value">React, Next.js, Node.js, Laravel, NestJS</text>
-<text x="510" y="305" class="key">CMS / Commerce</text>
-<text x="510" y="328" class="value">WordPress, WooCommerce</text>
-<text x="510" y="361" class="key">Infrastructure</text>
-<text x="510" y="384" class="value">Docker, Linux, Supabase</text>
-<text x="510" y="405" class="value">PostgreSQL, MySQL, Cloudflare</text>
-<text x="510" y="438" class="key">Automation</text>
-<text x="510" y="461" class="value">n8n, Make, REST APIs</text>
-<text x="510" y="494" class="key">Design</text>
-<text x="510" y="517" class="value">Figma, UI/UX, Web Design</text>
-<text x="510" y="550" class="key">Interests</text>
-<text x="510" y="573" class="value">AI, SaaS, Automation, Cybersecurity, Homelab</text>
-<text x="510" y="609" class="">- Contact</text>
-<text x="510" y="635" class=""><tspan class="key">Website</tspan><tspan class="muted"> ..... </tspan><tspan class="value">conexhub.com.br</tspan></text>
-<text x="510" y="656" class=""><tspan class="key">LinkedIn</tspan><tspan class="muted"> .... </tspan><tspan class="value">/in/hendrixgarcia</tspan></text>
-<text x="510" y="677" class=""><tspan class="key">Email</tspan><tspan class="muted"> ....... </tspan><tspan class="value">hendrixgarcia.dev@gmail.com</tspan></text>
-<text x="510" y="713" class="">- GitHub Stats</text>
-<text x="510" y="739" class=""><tspan class="key">Repos</tspan>: <tspan class="value" id="repos">38</tspan>   <tspan class="key">Stars</tspan>: <tspan class="value" id="stars">0</tspan>   <tspan class="key">Followers</tspan>: <tspan class="value" id="followers">6</tspan></text>
-<text x="510" y="762" class=""><tspan class="key">Commits (12m)</tspan>: <tspan class="value" id="commits">290</tspan>   <tspan class="key">Contributions (12m)</tspan>: <tspan class="value" id="contributions">302</tspan></text>
+<text x="510" y="72" class=""><tspan class="key">OS:</tspan><tspan class="muted"> ........................ </tspan><tspan class="value">Linux, Windows</tspan></text>
+<text x="510" y="96" class=""><tspan class="key">Uptime:</tspan><tspan class="muted"> .................... </tspan><tspan class="value">10+ years</tspan></text>
+<text x="510" y="120" class=""><tspan class="key">Role:</tspan><tspan class="muted"> ...................... </tspan><tspan class="value">Product Engineer</tspan></text>
+<text x="510" y="144" class=""><tspan class="key">Focus:</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">Full-Stack / Web</tspan></text>
+<text x="510" y="182" class=""><tspan class="key">Languages.Programming:</tspan><tspan class="muted"> ..... </tspan><tspan class="value">JavaScript, TypeScript, PHP, Python</tspan></text>
+<text x="510" y="206" class=""><tspan class="key">Languages.Computer:</tspan><tspan class="muted"> ........ </tspan><tspan class="value">HTML, CSS, SQL</tspan></text>
+<text x="510" y="230" class=""><tspan class="key">Frameworks:</tspan><tspan class="muted"> ................ </tspan><tspan class="value">React, Next.js, Node.js, Laravel, NestJS</tspan></text>
+<text x="510" y="254" class=""><tspan class="key">CMS.Commerce:</tspan><tspan class="muted"> .............. </tspan><tspan class="value">WordPress, WooCommerce</tspan></text>
+<text x="510" y="292" class=""><tspan class="key">Infrastructure:</tspan><tspan class="muted"> ............ </tspan><tspan class="value">Docker, Linux, Supabase, Cloudflare</tspan></text>
+<text x="510" y="316" class=""><tspan class="key">Automation:</tspan><tspan class="muted"> ................ </tspan><tspan class="value">n8n, Make, REST APIs</tspan></text>
+<text x="510" y="340" class=""><tspan class="key">Design:</tspan><tspan class="muted"> .................... </tspan><tspan class="value">Figma, UI/UX, Web Design</tspan></text>
+<text x="510" y="364" class=""><tspan class="key">Interests:</tspan><tspan class="muted"> ................. </tspan><tspan class="value">AI, SaaS, Automation, Cybersecurity, Homelab</tspan></text>
+<text x="510" y="404" class="">- Contact</text>
+<text x="510" y="430" class=""><tspan class="key">Website.Personal:</tspan><tspan class="muted"> .......... </tspan><tspan class="value">hdrx.com.br</tspan></text>
+<text x="510" y="454" class=""><tspan class="key">Website.Company:</tspan><tspan class="muted"> ........... </tspan><tspan class="value">conexhub.com.br</tspan></text>
+<text x="510" y="478" class=""><tspan class="key">LinkedIn:</tspan><tspan class="muted"> .................. </tspan><tspan class="value">in/hendrixgarcia</tspan></text>
+<text x="510" y="502" class=""><tspan class="key">Email:</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">hendrixgarcia.dev@gmail.com</tspan></text>
+<text x="510" y="542" class="">- GitHub Stats</text>
+<text x="510" y="568" class=""><tspan class="key">Repos:</tspan><tspan class="muted"> .............. </tspan><tspan class="value" id="repos">38</tspan><tspan class="muted">        | </tspan><tspan class="key">Stars:</tspan><tspan class="muted"> ......... </tspan><tspan class="value" id="stars">0</tspan></text>
+<text x="510" y="592" class=""><tspan class="key">Commits (12m):</tspan><tspan class="muted"> ..... </tspan><tspan class="value" id="commits">290</tspan><tspan class="muted">        | </tspan><tspan class="key">Followers:</tspan><tspan class="muted"> ..... </tspan><tspan class="value" id="followers">6</tspan></text>
+<text x="510" y="616" class=""><tspan class="key">Contributions (12m):</tspan><tspan class="muted"> .. </tspan><tspan class="value" id="contributions">302</tspan></text>
 </g></svg>
