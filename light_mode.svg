@@ -89,6 +89,6 @@
 <text x="510" y="502" class=""><tspan class="key">Email:</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">hendrixgarcia.dev@gmail.com</tspan></text>
 <text x="510" y="542" class="">- GitHub Stats</text>
 <text x="510" y="568" class=""><tspan class="key">Repos:</tspan><tspan class="muted"> .............. </tspan><tspan class="value" id="repos">38</tspan><tspan class="muted">        | </tspan><tspan class="key">Stars:</tspan><tspan class="muted"> ......... </tspan><tspan class="value" id="stars">0</tspan></text>
-<text x="510" y="592" class=""><tspan class="key">Commits (12m):</tspan><tspan class="muted"> ..... </tspan><tspan class="value" id="commits">290</tspan><tspan class="muted">        | </tspan><tspan class="key">Followers:</tspan><tspan class="muted"> ..... </tspan><tspan class="value" id="followers">6</tspan></text>
-<text x="510" y="616" class=""><tspan class="key">Contributions (12m):</tspan><tspan class="muted"> .. </tspan><tspan class="value" id="contributions">302</tspan></text>
+<text x="510" y="592" class=""><tspan class="key">Commits (12m):</tspan><tspan class="muted"> ..... </tspan><tspan class="value" id="commits">291</tspan><tspan class="muted">        | </tspan><tspan class="key">Followers:</tspan><tspan class="muted"> ..... </tspan><tspan class="value" id="followers">6</tspan></text>
+<text x="510" y="616" class=""><tspan class="key">Contributions (12m):</tspan><tspan class="muted"> .. </tspan><tspan class="value" id="contributions">303</tspan></text>
 </g></svg>
